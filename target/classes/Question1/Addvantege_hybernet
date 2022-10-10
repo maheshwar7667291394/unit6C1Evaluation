@@ -1,0 +1,20 @@
+What are the advantages of using Hibernate over JDBC?
+
+Hibernate is a framework used in Java to ease the development of applications to 
+interact with databases. On the other hand, 
+JDBC is an API to connect and execute queries with database in Java.
+ 
+ Avantage 
+ 1) data base dependency:-> hybernet not depend on the database while JDBC dependent on databse 
+  to excute any operation.
+  
+ 2) hebernet requre less number of code to excute any application  while Jdbc take large number of
+   code to perform any operation.
+   
+ 3) in hybernet framework no need to handle exception while the JDBC many times require the exception 
+    handle
+   
+  
+  
+ 
+ 
